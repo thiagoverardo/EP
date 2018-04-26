@@ -1,5 +1,5 @@
 #EP - Primeira implementação feita.
-#Faltam os botoes 8, 9 e 10 (ja comecei), importar o json, firebase e melhorar os estoques negativos.
+#Faltam os botoes 8, 9 e 10 (ja comecei), importar o json, firebase, melhorar os estoques negativos e as LOJASSSSS!!!!.
 Stock = {}
 Option = -1
 
